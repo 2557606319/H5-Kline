@@ -11,5 +11,5 @@
   - 准备行情数据 详情请看tmpData.js里面的数据格式
   - 准备div初始化图标，详情请看demo.html
 ## 效果图
-
+![Image text](https://github.com/2557606319/H5-Kline/kline1.gif) 
 
